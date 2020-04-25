@@ -15,10 +15,10 @@ Extractor is a program, which extracts parking data from https://www.hipark.de/p
 A backend API, which has a POST endpoint that returns a JSON response.
 
 ### Instructions
-2. Execute ```$ go run main.go```, which will start the server at port ```8080```.
+1. Execute ```$ go run main.go```, which will start the server at port ```8080```.
 
 ## Example
-### JSON file
+### JSON File
 ```
 [
    {
